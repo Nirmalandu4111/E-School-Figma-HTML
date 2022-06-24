@@ -25,7 +25,7 @@
 .hero{
     background-color: #F0FFF0
     ;
-    min-height: 100vh;
+    min-height: 90vh;
 }
 
 .hero-content{
@@ -85,9 +85,6 @@ color: #ffff;
 }
 .btn-custom:hover{
     background: #90f8c8;
-
-
-
 }
 
 .feature{
@@ -206,7 +203,7 @@ color: #585859;
 .course-one ul{display: flex;/* text-decoration: none; */list-style: none;margin: 0;padding: 0;}
 .course-one ul li{
 
-/* text-decoration: none; */
+
 
 color: #585859;
 }
